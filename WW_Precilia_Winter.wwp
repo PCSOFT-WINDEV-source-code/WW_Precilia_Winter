@@ -1,0 +1,216 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_Precilia_Winter
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Site
+    internal_properties : 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
+    configuration_id : 11227371628453357809
+    type : 2
+    generation_name : WW_Precilia_Winter.wdl
+    version : {}
+    index_page_generation_name : PAGE_HOME
+    language : 2
+    64bits : true
+ elements :
+  identifier : 0x464987a200020761
+  elements :
+   -
+     name : PAGE_HOME
+     identifier : 0x4649953b004622d6
+     internal_properties : CAAAAAgAAAC7Pu0gAnKrD/wklaGx+HWYk2HGZxl13g9anxuMtHVBS4v3gLQXqPzSb4gxadce/EK/1B3sHqcML3y7p0NbuYSTUGVEPw==
+     physical_name : .\PAGE_HOME.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : PAGETPL_WINTER
+     identifier : 0x4649a53a00299eee
+     internal_properties : CAAAAAgAAABQroiUE0jg+0b9MSqFsbkjEnNZgTIBmPq2cduKLRnzNZdfr3+5T3sGIxuFczOtVUu1vQ==
+     physical_name : .\PAGETPL_WINTER.wwt
+     type : 65541
+   -
+     name : QRY_NEWPRODUCTS
+     identifier : 0x464af7e500298c1f
+     internal_properties : CAAAAAgAAABVMb3h3rvzLCWRIEqckFxRiZasvPfzvYqus8CdT3klo223plbcZCGihr44gADwiHhAwA==
+     physical_name : .\QRY_NEWPRODUCTS.WDR
+     type : 5
+   -
+     name : QRY_DEFAULT_PRODUCTPHOTO
+     identifier : 0x464b5d8a0072978d
+     internal_properties : CAAAAAgAAAACeHquHUri/UTxixAHhCAoIpEp4VqWWzynHlsyRFRA2CCCz8iVay8GJR2HcTGvS70HDw==
+     physical_name : .\QRY_DEFAULT_PRODUCTPHOTO.WDR
+     type : 5
+   -
+     name : PAGE_PRODUCT
+     identifier : 0x464b3579006a14c8
+     internal_properties : CAAAAAgAAAAOeVB11SX4LNHTRp5uCSZhqmjheLzo8yxPPDQmEk2o0QvvQnZxnwUNCr8OVPr7md3Y7SbTJVi7XKlo1B5+ZlHeHaoB8g==
+     physical_name : .\PAGE_PRODUCT.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : QRY_PRODUCT_BARGAINPRICE
+     identifier : 0x464c464d00714783
+     internal_properties : CAAAAAgAAADySCp+zbryLTSi/rFZrRg+/q31XdaSVperQXdmkDhknKSuMZbeYisfVc03gQH/++3XXw==
+     physical_name : .\QRY_PRODUCT_BARGAINPRICE.WDR
+     type : 5
+   -
+     name : PAGE_CATALOG
+     identifier : 0x464dab7f00953896
+     internal_properties : CAAAAAgAAAAVDF9yjIyVCf4mm9Ovymei9S8gOeMXsGEE0pmkqYltPxMXvsoBJnAgeK1TD7042pwZrmcS5Jn6HW6tqUFZu/oFIrcW7Q==
+     physical_name : .\PAGE_CATALOG.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : QRY_Families
+     identifier : 0x4649b2eb002b1ac4
+     internal_properties : CAAAAAgAAAB10V1BfttTDMVwwd6+tLD8KXQgMI1BmXOuA00IfCxm6m7y7L56htWJpp4Y4KBQKJhg4A==
+     physical_name : .\QRY_Families.WDR
+     type : 5
+   -
+     name : COL_TOOLS
+     identifier : 0x464f2f350085b9a9
+     internal_properties : CAAAAAgAAACd+fWpFkPr9E0emqDgaMMZJ0TyemsYcG9HaaOUy0tDladZEpfzzaj/LhaAeDioUECIiA==
+     physical_name : .\COL_TOOLS.wdg
+     type : 7
+   -
+     name : QRY_PRODUCTS
+     identifier : 0x464ef36200810942
+     internal_properties : CAAAAAgAAADxTSl9yve/8Pl5WJv4TBu6pTBcrLkNpveLdfnkgDjSJtoWbpv7BU1KmoJ8RMwE/OzUXA==
+     physical_name : .\QRY_PRODUCTS.WDR
+     type : 5
+   -
+     name : QRY_AVAILABLE_VARIATIONS
+     identifier : 0x464da1a10078aeae
+     internal_properties : CAAAAAgAAAAyCGq+jfqy7fRjm/MnyuEbivvR2XRY4AFK5Jb//5nz5dcvX8+oGFlglY13QcE/O60XHw==
+     physical_name : .\QRY_AVAILABLE_VARIATIONS.WDR
+     type : 5
+  other_elements : []
+  analysis : .\WW_EcommerceSiteDatabase.ana\WW_EcommerceSiteDatabase.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components :
+   -
+     name : WW_PayBox
+     identifier : 0x48f8978f008fe68f
+     internal_properties : CAAAAAgAAACKrLGjS893/5csM+Zr/YzrY6KdQcMqSmUBd8aRUQAmESXccxQsTZaAKwf+lIqI2XMYzj6Id3CfjdRzWjG0S+8YV8GbYcjGDQ==
+     wdi_physical_name : .\WW_PayBox.wdi
+     wdk_physical_name : .\WW_PayBox.wdk
+     original_name : ..\WW_PayBox\Exe\Component\WW_PayBox.wdi
+  internal_components :
+   -
+     physical_name : .\OnLineSaleAccount\OnLineSaleAccount.wci
+   -
+     physical_name : .\EcommercePage\EcommercePage.wci
+   -
+     physical_name : .\CustomerSectionPage\CustomerSectionPage.wci
+ data_directory : <RepDonneesCommun>
+ common_generation_directory : true
+ wb_skin : 210 Material Design
+ wb_color_palette : Material Red
+ site_type : 3
+ languages :
+  - en-GB
+ wd_style_sheet : .\WW_PRECILIA_WINTER.sty
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_CATALOG
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_HOME
+     parameters : []
+     title : {}
+     description : {}
+   -
+     name : PAGE_PRODUCT
+     parameters : []
+     title : {}
+     description : {}
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAADCWS/yoFnfyuRBE7QeFGiHigvJDchILp49WIiFrrrOwp6cPXwa0+a/TTmjs8/EbGK21eGgcd744SysArSv3xnX4spA
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      
+      ESKICharacteristic is énumération
+      	CHARAC_Various			= 0
+      	CHARAC_HelmetSize 		= 0x0001
+      	CHARAC_StickSize 		= 0x0002
+      	CHARAC_ShoeSize 	= 0x0003
+      	CHARAC_FlexIndex 		= 0x0004
+      	CHARAC_SkiSize 		= 0x0005
+      	CHARAC_BoardSize		= 0x0006
+      	CHARAC_MaskSize		= 0x0007
+      	CHARAC_GarmentSize	= 0x0008
+      END
+      
+      // Declare an AWP context
+      ConfigureAWPContext(ctxDisk, ctxIDCookieURL)
+      HCreationIfNotFound("*")
+     type : 196608
+   -
+     code : |1-
+      
+      // Initialization of modules
+      SET_ECommerce.InitializeEBusiness()
+      COL_CustomerAccounts.InitializeCustomerManagement()
+      PageInitialize()
+      
+      SET_ECommerce.gnNbDecimals = 2
+      SET_ECommerce.gsURLPageViewProduct = "product.awp"
+      SET_ECommerce.gsURLBackToStore = "home.awp"
+      SET_ECommerce.gsURLStoreImageDatabase = "/" + FolderWeb + "/"
+      SET_ECommerce.gsURLGSC = ""
+     type : 196626
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Site
+     identifier : 0x464987a2000307de
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : WW_PRECILIA_WINTER
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : WW_PayBox
+    explorer_type : custom_folder
+    children :
+     -
+       name : PAYBOX
+       explorer_type : element
+       type : 7
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

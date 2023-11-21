@@ -1,0 +1,74 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : CProductFamily
+ major_version : 28
+ minor_version : 0
+ type : 4
+ description : ""
+ subtype : 0
+class :
+ identifier : 0x18f895d11640164c
+ internal_properties : CAAAAAgAAAB2/vstTMCJbS/hlxjFxirSqKvCUuv8YxgpWyl7S3iA
+ code_elements :
+  type_code : 10
+  p_codes :
+   -
+     code : |1+
+      CProductFamily is class
+      	
+      	m_nIDProductFamily is 8-byte int <MAPPING=IDProductFamily>
+      	m_sFamilyCaption is string ANSI <MAPPING=FamilyCaption>
+      	m_sFamilyDescription is string <MAPPING=FamilyDescription>
+      	m_sPhoto is string ANSI <MAPPING=Photo>
+      	m_nIDParentProductFamily is 8-byte int <MAPPING=IDParentProductFamily>
+      	
+      END
+     type : 131072
+  procedures :
+   -
+     name : Constructeur
+     procedure_id : 1799352776388580940
+     type_code : 27
+     code : |1+
+      PROCEDURE Constructor()
+      
+     type : 589824
+   -
+     name : Destructeur
+     procedure_id : 1799352776388646476
+     type_code : 28
+     code : |1+
+      PROCEDURE Destructor()
+      
+     type : 655360
+   -
+     name : LoadInfo
+     procedure_id : 1799352776388712012
+     type_code : 12
+     code : |1-
+      // Summary: Loads information about the product family
+      
+      PROCEDURE LoadInfo(nIDProductFamily)
+      
+      HReadSeekFirst(ProductFamily,IDProductFamily,nIDProductFamily)
+      IF HFound(ProductFamily)=False THEN
+      	ErrorThrow(1,"Unable to find the requested product family.")
+      	RESULT False
+      END
+      
+      FileToMemory(object, ProductFamily)
+      
+      RESULT True
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : Classe1
+resources :
+ string_res :
+  identifier : 0x15faaea1046e7be4
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ

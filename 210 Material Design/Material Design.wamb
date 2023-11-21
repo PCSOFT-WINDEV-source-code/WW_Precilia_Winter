@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ambiance Version="1688999337">
+  <Preference>
+    <Palette>Material Blue Grey</Palette>
+    <Palette>Material Blue</Palette>
+    <Palette>Material Cyan</Palette>
+    <Palette>Material Green</Palette>
+    <Palette>Material Indigo</Palette>
+    <Palette>Material Orange</Palette>
+    <Palette>Material Purple</Palette>
+    <Palette>Material Red</Palette>
+    <Palette>Material Teal</Palette>
+    <Palette>Material Yellow</Palette>
+  </Preference>
+  <Palette>Material Indigo</Palette>
+</Ambiance>
